@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://blog.basegg.io/categories/cat_general.xml</loc>
-  <lastmod>2016-03-04T03:01:00Z</lastmod>
+  <lastmod>2016-03-04T03:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://blog.basegg.io/galleries/rss.xml</loc>
@@ -15,10 +15,10 @@
  </sitemap>
  <sitemap>
   <loc>http://blog.basegg.io/rss.xml</loc>
-  <lastmod>2016-03-04T03:01:00Z</lastmod>
+  <lastmod>2016-03-04T03:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://blog.basegg.io/sitemap.xml</loc>
-  <lastmod>2016-03-04T03:01:00Z</lastmod>
+  <lastmod>2016-03-04T03:44:00Z</lastmod>
  </sitemap>
 </sitemapindex>
