@@ -1,0 +1,4 @@
+Sitemap: http://blog.basegg.io/sitemapindex.xml
+
+User-Agent: *
+Host: blog.basegg.io
